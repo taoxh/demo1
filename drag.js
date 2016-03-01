@@ -1,6 +1,8 @@
 function drag(){
 	var oDiv = document.getElementById('div1');
 	oDiv.onmousedown = function(){
-		alert(1);
+		var disX = 0;
+		var disY = 0;
+		1
 	}
 }
